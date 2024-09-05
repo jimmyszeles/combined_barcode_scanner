@@ -44,10 +44,11 @@ packages:
   combined_barcode_scanner:
     dependency: "direct main"
     description:
-      name: combined_barcode_scanner
-      sha256: "2921c812b40aee91cdbc475e49a08f22958081bf40ee1f2105b2fed2bb7b334b"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "4c719f64ba9d36a9a65fa32ab81d35c2ab24c120"
+      url: "https://github.com/jimmyszeles/combined_barcode_scanner.git"
+    source: git
     version: "1.0.0"
   fake_async:
     dependency: transitive
